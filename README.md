@@ -4,7 +4,7 @@
   
 ![](https://github.com/daraaveasna/daraaveasna/blob/main/name.svg)
 
-***:octocat: Web Developer and Designer***   
+***:octocat: Web Developer & Designer***   
 </div>
 
 <div align="center">
